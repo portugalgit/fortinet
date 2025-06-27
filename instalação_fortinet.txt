@@ -16,15 +16,15 @@
 4.Verificar se a virtualização esta ativa no PC
 - Gestor de tarefas > CPU > Virtualização: "Ativado"
 Nota: Caso não esteja habilitado faça:
-- Aveder a BIOS "enable"
+- Aceder a BIOS "enable"
 ###########################################################
 #################### OBRIGATORIO ##########################
 - preparar sempre a topologia para a criação do lab virtual
 - instalar o virtualbox (software para a criação do laboratorio)
-- instalar o FortiOS (Firewall fortigate)
+- importar o FortiOS (Firewall fortigate) para dentro do Virtualbox
 - instalar o windows e kali linux (opcional)
 - configurar o ambiente no GNS (Opcional)
-- configurando o amboente no windows utilizando o virtualbo 
+- configurando o ambiente no windows utilizando o virtualbo 
 ############################################################
 
 
