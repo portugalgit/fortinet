@@ -1,0 +1,21 @@
+Validar as interfaces
+# get system interface physycal
+
+Configurar o IP static
+# config system interface
+
+Mostrar as interfaces
+# show full-configuration
+
+Editar a porta especifica
+# edit port2 [enter]
+
+Salvar as configurações
+# end [salvar e exit]
+
+Mostrar a configuraçõa da porta
+# show system interface port2
+
+  
+
+
