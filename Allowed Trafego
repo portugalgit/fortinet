@@ -1,0 +1,11 @@
+Configurar a interface
+# config system interface
+
+especificar a porta
+# edit port2
+
+permitir o trafego
+set allowaccess http https ping
+
+finaliza
+# end
